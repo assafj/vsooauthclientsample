@@ -1,3 +1,5 @@
+
+
 This sample .NET MVC web app shows how to use the OAuth 2.0 capabilities in Visual Studio Online to prompt users to authorize your app and to acquire an access token and refresh token to access their Visual Studio Online resources.
 
 To learn more about OAuth in Visual Studio Online, see Authorize access with OAuth 2.0
