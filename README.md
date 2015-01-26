@@ -29,6 +29,10 @@ These instructions assume you will be deploying this sample app to an Azure web 
 
 If everything is setup properly, Visual Studio Online will generate an access token and refresh token and both values will be displayed. As an app developer, you would always keep these values secret. Also a new authorization will appear on your profile page.
 
+
+
+hi there
+
 With this access token, you can call Visual Studio Online REST APIs by passing the access token in the Authorization header. For example:
 
 ```
